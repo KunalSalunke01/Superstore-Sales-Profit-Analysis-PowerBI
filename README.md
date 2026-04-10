@@ -31,15 +31,15 @@ The company is generating strong sales but facing inconsistent and sometimes neg
 -	Ensured consistency in categorical values 
 
 ## 📊 Dashboard Features (Power BI)
--	KPI Cards
-  -	Total Sales
+- KPI Cards
+  - Total Sales
   -	Positive Profit
   -	Total Loss
   -	Net Profit
   -	Average Discount
 
--	Analytical Visuals
-  -	Profit vs Discount Trend
+- Analytical Visuals
+  - Profit vs Discount Trend
   -	Top and Underperforming sub-categories
   -	Sales, Profit, and Loss by category
   -	Profit contibution by region
