@@ -17,13 +17,13 @@ The company is generating strong sales but facing inconsistent and sometimes neg
 ## 📂 Dataset
 -	Dataset: Superstore Sales Data 
 -	Format: CSV 
--	Size: ~10,000 rows x 21 columns
--	Contains
-  -	Order details (Order Date, Ship Date, Ship Mode) 
-  -	Customer details (Segment, Region, State) 
-  -	Product details (Category, Sub-Category, Product Name) 
-  -	Metrics (Sales, Quantity, Discount, Profit) 
-
+-	Size: ~10,000 rows x 21 columns 
+- Contains
+  - Order details (Order Date, Ship Date, Ship Mode)
+  - Customer details (Segment, Region, State)
+  - Product details (Category, Sub-Category, Product Name)
+  - Metrics (Sales, Quantity, Discount, Profit)
+    
 ## 🧹 Data Cleaning (Power Query)
 -	Verified dataset contains no duplicate records or missing values  
 -	Converted data types (Date, Numeric, Categorical) for accurate analysis 
@@ -32,19 +32,18 @@ The company is generating strong sales but facing inconsistent and sometimes neg
 
 ## 📊 Dashboard Features (Power BI)
 -	KPI Cards
-  -	Total Sales 
-  -	Positive Profit 
-  -	Total Loss 
-  -	Net Profit 
-  -	Average Discount 
+  -	Total Sales
+  -	Positive Profit
+  -	Total Loss
+  -	Net Profit
+  -	Average Discount
 
 -	Analytical Visuals
-  -	Profit vs Discount trend 
-  -	Top and underperforming sub-categories 
-  -	Sales, profit, and loss by category 
-  -	Profit and loss by shipping mode 
-  -	Profit contribution by region 
-  -	Top states by profit
+  -	Profit vs Discount Trend
+  -	Top and Underperforming sub-categories
+  -	Sales, Profit, and Loss by category
+  -	Profit contibution by region
+  -	Top States by profit
   -	Profit by customer segment
 
 - Interactive Filters
